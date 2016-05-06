@@ -1,3 +1,0 @@
-*{padding: 0;margin: 0;text-decoration: none;}
-#menu{background-color: blue;opacity:0.3;filter:alpha(opacity=30);border: 1px solid #fff;width: 200px;height:400px;position: absolute;left: -200px;top: 100px}
-#close_icon{width:45px;height:70px;background-color: #ccc;border: 1px solid #000;border-top-right-radius: 3px;border-bottom-right-radius: 3px;position: absolute;top: 0;left: 200px;}
